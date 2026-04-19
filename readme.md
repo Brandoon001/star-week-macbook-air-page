@@ -1,13 +1,6 @@
-# 💻 Clone da Página do MacBook Air
+# 💻 Página do MacBook Air
 
 Projeto desenvolvido durante a **Start Week**, com o objetivo de colocar em prática habilidades de **HTML**, **CSS** e **JavaScript Vanilla**, recriando a interface da página oficial do **MacBook Air**.
-
----
-
-## 📸 Preview
-
-![Preview do Projeto](./src/assets/images/preview.jpg)  
-*Simulação visual da landing page clonada.*
 
 ---
 
@@ -27,3 +20,4 @@ Projeto desenvolvido durante a **Start Week**, com o objetivo de colocar em prá
 - Troca dinâmica de cores (simulando escolha de modelos).
 
 ---
+# star-week-macbook-air-page
