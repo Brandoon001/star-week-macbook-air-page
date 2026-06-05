@@ -6,7 +6,7 @@ Projeto desenvolvido durante a **Start Week**, com o objetivo de colocar em prá
 
 ## 📸 Preview
 
-![Preview do Projeto](src/assets/preview.jpg)  
+![Preview do Projeto](src/assets/preview.png)  
 *Simulação visual da landing page*
 
 ---
